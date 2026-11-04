@@ -7,6 +7,11 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 783,
+      "sha256": "69af6423a0262288d02bd6885716f66e86bae3e228cebe440d720ddcf520eb67"
+    },
+    {
       "path": "README.md",
       "bytes": 3147,
       "sha256": "69814e1768c1f429aebd14b8cd1d3d5754940deefbd909413e018ea2f7d3d382"
@@ -87,9 +92,39 @@
       "sha256": "9571e5da646434b8449dfe88b601261af6548adfce189f498645527305dfb985"
     },
     {
+      "path": "film/motion-artwork.webp",
+      "bytes": 42364,
+      "sha256": "deb1a57ae74b532d804bdb987f59111fd0755e1cdfb778c100a307fa5870863d"
+    },
+    {
+      "path": "film/motion-manifest.json",
+      "bytes": 1190,
+      "sha256": "da329d3eec774e3611213a9e8f3415bd4973d474b7aeb2873e305c87269fdd55"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 1848,
+      "sha256": "a068303441fe2b54ea15c310597ab2e86fbb9979918ca883331f25d41859d6ca"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 31807,
+      "sha256": "a311a8531ed2c8b05b6c609f00146ebf713df44316c8f640ccd08e53da4aade8"
+    },
+    {
+      "path": "film/motion-preview.mp4",
+      "bytes": 410200,
+      "sha256": "4fdc7928c9d48745fd82f7644ea8c6f1ebfe1bb9f5caaf4caec84dc6859b2711"
+    },
+    {
+      "path": "film/motion-preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
       "path": "index.html",
-      "bytes": 8708,
-      "sha256": "e4122b2edb4a10924b25e339f453edd1cb504f7404f5ed014a7cae3467e14c79"
+      "bytes": 9226,
+      "sha256": "1f4a069a88a3612a3a85e2d1b666e092cde8130265481ae049f54bbb86f894bb"
     },
     {
       "path": "midi/am01-still-window/am01-still-window-combined.mid",
@@ -260,6 +295,11 @@
       "path": "tools/build_release.py",
       "bytes": 55043,
       "sha256": "bf66b15904a8ffe6d9106669edd6670cc41fa3640db30691cf431832fe1f8772"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
     },
     {
       "path": "tools/validate_release.py",

@@ -1,0 +1,26 @@
+{
+  "title": "Ambient Piano",
+  "study": "am01",
+  "bpm": 72,
+  "source_audio": "preview/ambient-piano-simple-synth-preview.mp3",
+  "source_audio_sha256": "5de50ed0ff979fdb28e1b61ec706d05efaad7dbdba1ce3ab6b3469b0dbbe51d2",
+  "source_midi": "midi/am01-still-window/am01-still-window-combined.mid",
+  "source_midi_sha256": "4916bc7e277d048f12c3abe5834bb7783384f9a2511ded5406828f5bb0f74509",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "bdc89624b0a07c77c14053d0d6cb7c623fbb4cb821277bda5141fe220bbd3bed",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "deb1a57ae74b532d804bdb987f59111fd0755e1cdfb778c100a307fa5870863d",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "4fdc7928c9d48745fd82f7644ea8c6f1ebfe1bb9f5caaf4caec84dc6859b2711",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
