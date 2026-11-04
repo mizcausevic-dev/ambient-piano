@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+am01,Still Window,pack-local equal-tempered pitch collection,C,72,4/4,480,32,61440,midi/am01-still-window/am01-still-window-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+am02,Soft Distance,pack-local equal-tempered pitch collection,D#,72,4/4,480,32,61440,midi/am02-soft-distance/am02-soft-distance-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+am03,Open Room,pack-local equal-tempered pitch collection,F#,72,4/4,480,32,61440,midi/am03-open-room/am03-open-room-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+am04,After Light,pack-local equal-tempered pitch collection,C#,72,4/4,480,32,61440,midi/am04-after-light/am04-after-light-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
